@@ -6,7 +6,7 @@
 losing track of where each value came from.**
 
 > ### Coming soon
-> The source code will be published in this repository on **10 November 2026**.
+> The source code will be published in this repository in **November 2026**.
 > Watch this repository to be notified when it is released.
 
 ---
